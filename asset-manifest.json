@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/praneshs2003/Expense_Tracker/static/css/main.5262242b.css",
+    "main.js": "/praneshs2003/Expense_Tracker/static/js/main.f6469015.js",
+    "index.html": "/praneshs2003/Expense_Tracker/index.html",
+    "main.5262242b.css.map": "/praneshs2003/Expense_Tracker/static/css/main.5262242b.css.map",
+    "main.f6469015.js.map": "/praneshs2003/Expense_Tracker/static/js/main.f6469015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5262242b.css",
+    "static/js/main.f6469015.js"
+  ]
+}
